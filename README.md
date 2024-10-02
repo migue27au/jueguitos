@@ -1,7 +1,7 @@
 ## Jueguitos hechos:
 - Snake
 
-![snake_picture]([[http://url/to/img.png](https://raw.githubusercontent.com/migue27au/jueguitos/refs/heads/main/images/snake.png)])
+![snake_picture]([[https://raw.githubusercontent.com/migue27au/jueguitos/refs/heads/main/images/snake.png]])
 
 - Tetris
 
