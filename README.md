@@ -7,5 +7,9 @@
 
 ![tetris_picture](https://raw.githubusercontent.com/migue27au/jueguitos/refs/heads/main/images/tetris.png)
 
-## Jueguitos TODO:
 - Asteroid
+
+![asteroid_picture](https://raw.githubusercontent.com/migue27au/jueguitos/refs/heads/main/images/asteroid.png)
+
+## Jueguitos TODO:
+- Marcianitos
